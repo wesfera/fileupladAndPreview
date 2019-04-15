@@ -1,0 +1,16 @@
+[Global]
+Iconsize=24
+
+[config]
+Path="notepad.exe"
+FileArg="config.ini"
+Title="配置信息"
+IconFile=".\tvshico\set.ico"
+
+
+[河南能化项目]
+Path=".\teamviewer.exe"
+FileArg="-i 847222545 --Password 123456"
+Title="能化TM"
+IconFile=".\tvshico\id.ico"
+
